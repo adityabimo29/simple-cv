@@ -1,3 +1,7 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
 .text-center{text-align: center;}
 .text-white{color: #fff;}
 .bg-crimson{background-color: crimson;}
@@ -38,5 +42,6 @@
     .artikel{
         flex-direction: column;
     }
-    .konten{width: 100%;}
+    .konten{width: 90%;}
+    .about{width: 90%;}
 }
